@@ -84,10 +84,3 @@ Mouse : R460 : R1045 : Click : 0 : 0 : 0
 COMMENT : Motivate (most-letf +1) (because tavern may be opened)
 DELAY : 999
 Mouse : R425 : R1070 : Click : 0 : 0 : 0
-
-COMMENT : Visit tavern (most-left one)
-DELAY : 999
-Mouse : R350 : R1045 : Click : 0 : 0 : 0
-COMMENT : Motivate (most-left one) (because tavern may be opened)
-DELAY : 999
-Mouse : R320 : R1070 : Click : 0 : 0 : 0
