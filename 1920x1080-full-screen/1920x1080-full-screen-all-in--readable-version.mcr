@@ -8,10 +8,10 @@ IF MESSAGE : Ez a program egy makró program; azaz helyetted "mozgatja" az egere
         DELAY : 999
         Mouse : R915 : R1050 : Click : 0 : 0 : 0
 
-            PLAY MACRO : ./1920x1080-full-screen--right-ones--motivate-visitTavern.mcr
+            PLAY MACRO : ./1920x1080-full-screen/Instruments/1920x1080-full-screen--right-ones--motivate-visitTavern.mcr
 
             REPEAT : 80 : 0 : 0 : Hányszor takarítsunk/motiváljunk? : 0 : 0
-                PLAY MACRO : ./1920x1080-full-screen-1-move-motivate-visitTavern.mcr
+                PLAY MACRO : ./1920x1080-full-screen/Instruments/1920x1080-full-screen-1-move-motivate-visitTavern.mcr
             ENDREPEAT
 
     COMMENT : Click guild members
@@ -22,10 +22,10 @@ IF MESSAGE : Ez a program egy makró program; azaz helyetted "mozgatja" az egere
         DELAY : 999
         Mouse : R915 : R1050 : Click : 0 : 0 : 0
 
-            PLAY MACRO : ./1920x1080-full-screen--right-ones--motivate.mcr
+            PLAY MACRO : ./1920x1080-full-screen/Instruments/1920x1080-full-screen--right-ones--motivate.mcr
 
             REPEAT : 80 : 0 : 0 : Hányszor takarítsunk/motiváljunk? : 0 : 0
-                PLAY MACRO : ./1920x1080-full-screen-1-move-motivate.mcr
+                PLAY MACRO : ./1920x1080-full-screen/Instruments/1920x1080-full-screen-1-move-motivate.mcr
             ENDREPEAT
 
     COMMENT : Click neighbours
@@ -36,10 +36,10 @@ IF MESSAGE : Ez a program egy makró program; azaz helyetted "mozgatja" az egere
         DELAY : 999
         Mouse : R915 : R1050 : Click : 0 : 0 : 0
 
-            PLAY MACRO : ./1920x1080-full-screen--right-ones--motivate.mcr
+            PLAY MACRO : ./1920x1080-full-screen/Instruments/1920x1080-full-screen--right-ones--motivate.mcr
 
             REPEAT : 80 : 0 : 0 : Hányszor takarítsunk/motiváljunk? : 0 : 0
-                PLAY MACRO : ./1920x1080-full-screen-1-move-motivate.mcr
+                PLAY MACRO : ./1920x1080-full-screen/Instruments/1920x1080-full-screen-1-move-motivate.mcr
             ENDREPEAT
 
 ENDIF
